@@ -1,0 +1,25 @@
+{
+  "name": "react-app-from-scratch",
+  "version": "1.0.0",
+  "description": "This is react app setup or configure from scratch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunilKuYadav/react-app-from-scratch.git"
+  },
+  "keywords": [
+    "React",
+    "app",
+    "from",
+    "scratch"
+  ],
+  "author": "Sunil Kumar Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SunilKuYadav/react-app-from-scratch/issues"
+  },
+  "homepage": "https://github.com/SunilKuYadav/react-app-from-scratch#readme"
+}
