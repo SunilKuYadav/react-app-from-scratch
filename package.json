@@ -2,10 +2,10 @@
   "name": "react-app-from-scratch",
   "version": "1.0.0",
   "description": "This is react app setup or configure from scratch.",
-  "main": "index.js",
+  "main": "public/index.html",
   "scripts": {
     "build": "webpack --mode production",
-    "start": "webpack --mode development",
+    "start": "webpack serve --mode development",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
