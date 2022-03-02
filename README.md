@@ -132,3 +132,28 @@ so we are going to following these steps...
     ```
 
 ## Part 2
+
+1. befor starting this section we need to install few libraries.
+
+    Aready installed libararies are
+    ```react``` : A JS libary.
+    ```react-dom``` : Serve as entry point to the DOM and serve re-renders for react
+    ```@babel/core``` : used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments.
+    ```babel/preset-react``` : Extends babel support for JSX.
+    ```babel-loader``` : Works with webpack to transpile ES6+ into ES5 which is supported by older browsers.
+    ```webpack``` : bundles all our files into one file.
+    ```webpack-cli``` : webpack CLI provides a flexible set of commonds for developer to increase speed when setting up a custome webpack project.
+
+    Install new libaries 
+    ```
+    npm install html-webpack-plugin webpack-dev-server css-loader style-loader @babel/plugin-proposal-class-properties -D
+    ```
+
+    ```html-webpack-plugin``` : Simplifies the creation of HTML files to d=serve your webpack bundles.
+    ```webpack-dev-server``` : Allows you to use webpack with a development server that proide live-reloading and hot-reloading.
+    ```css-loader``` : Allow webpack to covert the CSS file into a Javascript string.
+    ```style-loader``` : Inserts the javascript string into HTML DOM.
+    ```@babel/plugin-proposal-class-properties``` : This plugin transforms static class properties as well as properties declared with the property initializer syntax.
+
+2. 
+
