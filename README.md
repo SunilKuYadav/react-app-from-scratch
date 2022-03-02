@@ -2,7 +2,7 @@
 
 This repository have a react app setup or configure from scratch.
 
-so we are going to following steps...
+so we are going to following these steps...
 
 ## Part 1
 
@@ -113,7 +113,7 @@ so we are going to following steps...
     import React from 'react'
 
     const App = () => {
-        
+
     return (
         <div>
             <h1>React App From Scratch</h1>
