@@ -135,25 +135,25 @@ so we are going to following these steps...
 
 1. befor starting this section we need to install few libraries.
 
-    Aready installed libararies are
-    ```react``` : A JS libary. <br/>
-    ```react-dom``` : Serve as entry point to the DOM and serve re-renders for react<br/>
-    ```@babel/core``` : used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments.<br/>
-    ```babel/preset-react``` : Extends babel support for JSX.<br/>
-    ```babel-loader``` : Works with webpack to transpile ES6+ into ES5 which is supported by older browsers.<br/>
-    ```webpack``` : bundles all our files into one file.<br/>
-    ```webpack-cli``` : webpack CLI provides a flexible set of commonds for developer to increase speed when setting up a custome webpack project.<br/>
+    Aready installed libararies are<br/><br/>
+    ```react``` : A JS libary. <br/><br/>
+    ```react-dom``` : Serve as entry point to the DOM and serve re-renders for react<br/><br/>
+    ```@babel/core``` : used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments.<br/><br/>
+    ```babel/preset-react``` : Extends babel support for JSX.<br/><br/>
+    ```babel-loader``` : Works with webpack to transpile ES6+ into ES5 which is supported by older browsers.<br/><br/>
+    ```webpack``` : bundles all our files into one file.<br/><br/>
+    ```webpack-cli``` : webpack CLI provides a flexible set of commonds for developer to increase speed when setting up a custome webpack project.<br/><br/>
 
     Install new libraries 
     ```
     npm install html-webpack-plugin webpack-dev-server css-loader style-loader @babel/plugin-proposal-class-properties -D
     ```
 
-    ```html-webpack-plugin``` : Simplifies the creation of HTML files to d=serve your webpack bundles.<br/>
-    ```webpack-dev-server``` : Allows you to use webpack with a development server that proide live-reloading and hot-reloading.<br/>
-    ```css-loader``` : Allow webpack to covert the CSS file into a Javascript string.<br/>
-    ```style-loader``` : Inserts the javascript string into HTML DOM.<br/>
-    ```@babel/plugin-proposal-class-properties``` : This plugin transforms static class properties as well as properties declared with the property initializer syntax.<br/>
+    ```html-webpack-plugin``` : Simplifies the creation of HTML files to d=serve your webpack bundles.<br/><br/>
+    ```webpack-dev-server``` : Allows you to use webpack with a development server that proide live-reloading and hot-reloading.<br/><br/>
+    ```css-loader``` : Allow webpack to covert the CSS file into a Javascript string.<br/><br/>
+    ```style-loader``` : Inserts the javascript string into HTML DOM.<br/><br/>
+    ```@babel/plugin-proposal-class-properties``` : This plugin transforms static class properties as well as properties declared with the property initializer syntax.<br/><br/>
 
 2. 
 
