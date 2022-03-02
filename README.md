@@ -4,6 +4,8 @@ This repository have a react app setup or configure from scratch.
 
 so we are going to following steps...
 
+## Part 1
+
 1. npm init
     This commond will be initialize our project by creating package.json file.
 
@@ -126,3 +128,5 @@ export default App
     "build": "webpack",
     "start": "webpack",
     ```
+
+## Part 2
