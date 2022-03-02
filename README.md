@@ -138,25 +138,32 @@ so we are going to following these steps...
     Aready installed libararies are
     ```
     react
-    ``` : A JS libary.
+    ```
+    A JS libary.
     ```
     react-dom
-    ``` : Serve as entry point to the DOM and serve re-renders for react
+    ```
+    Serve as entry point to the DOM and serve re-renders for react
     ```
     @babel/core
-    ``` : used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments.
+    ```
+    used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments.
     ```
     babel/preset-react
-    ``` : Extends babel support for JSX.
+    ```
+    Extends babel support for JSX.
     ```
     babel-loader
-    ``` : Works with webpack to transpile ES6+ into ES5 which is supported by older browsers.
+    ```
+    Works with webpack to transpile ES6+ into ES5 which is supported by older browsers.
     ```
     webpack
-    ``` : bundles all our files into one file.
+    ```
+    bundles all our files into one file.
     ```
     webpack-cli
-    ``` : webpack CLI provides a flexible set of commonds for developer to increase speed when setting up a custome webpack project.
+    ```
+    webpack CLI provides a flexible set of commonds for developer to increase speed when setting up a custome webpack project.
 
     Install new libraries 
     ```
@@ -165,19 +172,24 @@ so we are going to following these steps...
 
     ```
     html-webpack-plugin
-    ``` : Simplifies the creation of HTML files to d=serve your webpack bundles.
+    ```
+    Simplifies the creation of HTML files to d=serve your webpack bundles.
     ```
     webpack-dev-server
-    ``` : Allows you to use webpack with a development server that proide live-reloading and hot-reloading.
+    ```
+    Allows you to use webpack with a development server that proide live-reloading and hot-reloading.
     ```
     css-loader
-    ``` : Allow webpack to covert the CSS file into a Javascript string.
+    ```
+    Allow webpack to covert the CSS file into a Javascript string.
     ```
     style-loader
-    ``` : Inserts the javascript string into HTML DOM.
+    ```
+    Inserts the javascript string into HTML DOM.
     ```
     @babel/plugin-proposal-class-properties
-    ``` : This plugin transforms static class properties as well as properties declared with the property initializer syntax.
+    ```
+    This plugin transforms static class properties as well as properties declared with the property initializer syntax.
 
 2. 
 
